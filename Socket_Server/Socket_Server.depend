@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1608452623 source:h:\candc++projects\socket_server\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"HTTP_Server.h"
+
+1608452463 h:\candc++projects\socket_server\http_server.h
+	<bits/stdc++.h>
+	<winsock2.h>
+	<thread>
+	<mutex>
+	"My_Packet.h"
+
+1608452576 source:h:\candc++projects\socket_server\http_server.cpp
+	"HTTP_Server.h"
+
+1608451944 source:h:\candc++projects\socket_server\my_packet.cpp
+	"My_Packet.h"
+
+1608451965 h:\candc++projects\socket_server\my_packet.h
+	<bits/stdc++.h>
+
