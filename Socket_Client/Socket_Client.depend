@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1606477712 source:h:\candc++projects\socket_client\http_client.cpp
+	"HTTP_Client.h"
+
+1606477712 h:\candc++projects\socket_client\http_client.h
+	<bits/stdc++.h>
+	<winsock2.h>
+
+1606485151 source:h:\candc++projects\socket_client\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"HTTP_Client.h"
+
